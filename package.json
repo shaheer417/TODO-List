@@ -1,0 +1,19 @@
+{
+  "name": "9865wniazirjtodo",
+  "version": "1.0.1",
+  "description": "A simple TODO list ",
+  "main": "index.ts",
+  "type": "module",
+  "bin": "final_TODO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaheer niazi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
